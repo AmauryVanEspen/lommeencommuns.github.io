@@ -6,6 +6,26 @@
             "originTitle": "U.S. Senate: Committees Home > Committee Assignments of the 112th Congress",
             "uri": "http://simile.mit.edu/2007/05/senate#senator1",
             "homepage": "http://akaka.senate.gov",
+            "familyName": "Test",
+            "givenName": "Test",
+            "label": "Test insertion",
+            "party": "D",
+            "state": "HI",
+            "stateLatLng" :     "21.3069,-157.8583",
+            "committeeMember": [
+                "Committee on Indian Affairs",
+                "Committee on Armed Services",
+                "Committee on Banking, Housing, and Urban Affairs",
+                "Committee on Homeland Security and Governmental Affairs",
+                "Committee on Veterans' Affairs"
+            ]
+        },
+        {
+            "type": "Senator",
+            "originURL": "https://www.senate.gov/general/committee_assignments/assignments.htm",
+            "originTitle": "U.S. Senate: Committees Home > Committee Assignments of the 112th Congress",
+            "uri": "http://simile.mit.edu/2007/05/senate#senator1",
+            "homepage": "http://akaka.senate.gov",
             "familyName": "Akaka",
             "givenName": "Daniel K.",
             "label": "Daniel K. Akaka",
