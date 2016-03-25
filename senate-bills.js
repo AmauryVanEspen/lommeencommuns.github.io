@@ -2,6 +2,21 @@
     "items": [
         {
             "type": "Bill",
+            "label": "S.1467 test",
+            "description": "test Respect for Rights of Conscience Act of 2011",
+            "sponsor": "test Roy Blunt",
+            "inCommittee": "Committee on Health, Education, Labor, and Pensions",
+            "uri": "http://thomas.loc.gov/cgi-bin/query/z?c112:S.1467:",
+            "billHomepage": "http://thomas.loc.gov/cgi-bin/query/z?c112:S.1467:",
+            "congress": 112,
+            "cosponsor": [
+                "Kelly Ayotte",
+                "Marco Rubio",
+                "Test"
+            ]
+        },
+        {
+            "type": "Bill",
             "label": "S.1467",
             "description": "Respect for Rights of Conscience Act of 2011",
             "sponsor": "Roy Blunt",
