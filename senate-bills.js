@@ -4,6 +4,20 @@
             "type": "Bill",
             "label": "S.1467",
             "description": "Respect for Rights of Conscience Act of 2011",
+            "sponsor": "Test insertion",
+            "inCommittee": "Committee on Health, Education, Labor, and Pensions",
+            "uri": "http://thomas.loc.gov/cgi-bin/query/z?c112:S.1467:",
+            "billHomepage": "http://thomas.loc.gov/cgi-bin/query/z?c112:S.1467:",
+            "congress": 112,
+            "cosponsor": [
+                "Test insertion",
+                "Marco Rubio"
+            ]
+        },
+        {
+            "type": "Bill",
+            "label": "S.1467",
+            "description": "Respect for Rights of Conscience Act of 2011",
             "sponsor": "Roy Blunt",
             "inCommittee": "Committee on Health, Education, Labor, and Pensions",
             "uri": "http://thomas.loc.gov/cgi-bin/query/z?c112:S.1467:",
