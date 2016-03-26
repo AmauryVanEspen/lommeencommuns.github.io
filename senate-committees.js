@@ -2,22 +2,19 @@
     "items": [
         {
             "type": "Senator",
-            "originURL": "https://www.senate.gov/general/committee_assignments/assignments.htm",
-            "originTitle": "U.S. Senate: Committees Home > Committee Assignments of the 112th Congress",
-            "uri": "http://simile.mit.edu/2007/05/senate#senator1",
-            "homepage": "http://akaka.senate.gov",
-            "familyName": "Test",
-            "givenName": "Test",
+            "originURL": "https://lille.beyondlab.org",
+            "originTitle": "Blaber: Lille",
+            "uri": "http://http://lille.beyondlab.org/about-beyondlab-local/",
+            "homepage": "http://beyondlab.org",
+            "familyName": "Test Name",
+            "givenName": "Test surname",
             "label": "Test insertion",
             "party": "D",
             "state": "HI",
             "stateLatLng" :     "21.3069,-157.8583",
             "committeeMember": [
-                "Committee on Indian Affairs",
-                "Committee on Armed Services",
-                "Committee on Banking, Housing, and Urban Affairs",
-                "Committee on Homeland Security and Governmental Affairs",
-                "Committee on Veterans' Affairs"
+                "Committee on Test insertion",
+                "Committee on Beyond Lab"
             ]
         },
         {
